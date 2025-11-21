@@ -6,5 +6,6 @@ I am DeveloVoosh GWeb! a self-taught EDM producer and programmer :>
 [![GrowtopiaFli's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrowtopiaFli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) \
 \
 For [DeveloVoosh GWeb](https://github.com/DeveloVooshGWeb/) (org) \
+\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloVooshGWeb&layout=compact&langs_count=12&theme=dark)](https://github.com/anuraghazra/github-readme-stats) \
 [![GrowtopiaFli's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloVooshGWeb&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
