@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am DeveloVoosh GWeb! a self-taught EDM producer and programmer :> \
+I am DeveloVoosh GWeb! a self-taught EDM producer and programmer from the Philippines :> (I'm also currently learning 日本語) \
 https://gweb.carrd.co/
 
 ### Github Statistics
