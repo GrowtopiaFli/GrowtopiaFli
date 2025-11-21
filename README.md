@@ -8,4 +8,4 @@ I am DeveloVoosh GWeb! a self-taught EDM producer and programmer :>
 ### My music:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/250px-Spotify_icon.svg.png" height="32">](https://open.spotify.com/artist/0YPeb0HaeRSgkBVROgWUYg)
 &nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="32">](https://www.youtube.com/@DeveloVooshGWeb/vidoes)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" height="32">](https://www.youtube.com/@DeveloVooshGWeb/videos)
