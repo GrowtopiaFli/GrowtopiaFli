@@ -6,5 +6,6 @@ I am DeveloVoosh GWeb! a self-taught EDM producer and programmer :>
 [![Top Langs](https://github-readme-stats-six-kappa-26.vercel.app/api/top-langs/?username=GrowtopiaFli&layout=compact&langs_count=20&theme=dark&hide=GAP,VBScript,CMake,Hack,Swift,Kotlin,Objective-C,Shell)](https://github.com/GrowtopiaFli/github-readme-stats)
 
 ### My music:
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png" height="64">] \
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/1600px-YouTube_2024.svg.png" width="64">] \(https://open.spotify.com/artist/0YPeb0HaeRSgkBVROgWUYg)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Spotify_logo_with_text.svg/2560px-Spotify_logo_with_text.svg.png" height="64">](https://open.spotify.com/artist/0YPeb0HaeRSgkBVROgWUYg)
+ \
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/YouTube_2024.svg/1600px-YouTube_2024.svg.png" width="64">](https://www.youtube.com/@DeveloVooshGWeb/vidoes)
