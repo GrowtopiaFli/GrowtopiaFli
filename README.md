@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am DeveloVoosh GWeb! a self-taught EDM producer and programmer from the Philippines :D *(I'm also currently learning 日本語)* \
+I am DeveloVoosh GWeb! an 18 year old and self-taught EDM producer/programmer from the Philippines :D *(I'm also currently learning 日本語)* \
 https://gweb.carrd.co/
 
 ### Github Statistics
