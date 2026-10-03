@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am DeveloVoosh GWeb! an 18 year old 1st year BSIT college student and self-taught EDM Producer/Programmer from the Philippines :D *(I'm also currently learning 日本語)* \
+I am DeveloVoosh GWeb! a 19 year old 1st year BSIT college student and self-taught EDM Producer/Programmer from the Philippines :D *(I'm also currently learning 日本語)* \
 https://gweb.carrd.co/
 
 ### Github Statistics
